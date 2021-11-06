@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-this repo is created to learn git conflict from local
-=======
 this repo is created to learn git now we are creating some conflict using this line from github
->>>>>>> 1de7387b06f25f341d865e6ec7ed148530da1869
 *step by step guide to git tutorial
 
 initialize local repo to a git repo
