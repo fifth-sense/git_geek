@@ -1,5 +1,5 @@
 
-this repo is created to learn git 
+this repo is created to learn git conflict from local
 *step by step guide to git tutorial
 
 initialize local repo to a git repo
